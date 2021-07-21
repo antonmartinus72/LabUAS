@@ -6,6 +6,8 @@ Aplikasi ini dibuat demi menyelesaikan tugas Ujian Akhir Semester (UAS) pada mat
 
 Aplikasi ini adalah aplikasi manajemen iuran warga dalam bentuk web yang digunakan untuk mencatat, menbaca. Mengubah dan menghapus data warga dan data iuran warga.
 
+Live Demo : https://lemahabang13.000webhostapp.com/
+
 ## Dokumentasi
 - Dokumentasi : Pada repositori ini dengan nama file "**Dokumentasi.pdf**" atau kunjungi link [ini](https://github.com/antonmartinus72/LabUAS/raw/main/Dokumentasi.pdf)
 - Database : Pada repositori ini dengan nama file "**database.sql**"   atau kunjungi link [ini](https://github.com/antonmartinus72/LabUAS/raw/main/database.sql).
