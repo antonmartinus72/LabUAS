@@ -1,6 +1,6 @@
 # PROGRAM IURAN WARGA
 
-Aplikasi ini dibuat demi menyelesaikan tugas Ujian Akhir Semester (UAS) semester pada mata kuliah Pemrograman Web.
+Aplikasi ini dibuat demi menyelesaikan tugas Ujian Akhir Semester (UAS) pada mata kuliah Pemrograman Web.
 
 ## Deskripsi Program
 
